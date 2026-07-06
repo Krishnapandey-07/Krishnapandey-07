@@ -1,4 +1,4 @@
-# Hi there, I'm Krishna Pandey 👋
+# Hi, I'm Krishna Pandey 👋
 
 🎓 **Second-Year B.Tech Computer Science (Artificial Intelligence)** student at **Vedam School of Technology, ADYPU Pune**.
 
@@ -8,7 +8,7 @@ I'm passionate about software engineering, problem-solving, and building applica
 
 ## 🚀 About Me
 
-- 🎓 First-Year B.Tech CSE (AI) Student
+- 🎓 Second-Year B.Tech CSE (AI) Student
 - 💻 Passionate about Software Development & Problem Solving
 - 🌱 Currently learning Full-Stack Web Development
 - 🧩 Regularly solving Data Structures & Algorithms problems in Java
